@@ -1,5 +1,4 @@
 # Yerin Kim 
-# Yerin Kim 👋
 > **Data Science | Dongduk Women's Univ**  
 > **Undergraduate Researcher at Computer Vision & Machine Learning Lab (CVMLab)**
 
