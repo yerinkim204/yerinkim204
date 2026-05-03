@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:yerinkim204@gmail.com)
 
 ---
----
 
 ### 🛠 Tech Stack
 
