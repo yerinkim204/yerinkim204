@@ -1,6 +1,12 @@
 # Yerin Kim 
-> **[한 줄 요약: 데이터 분석을 통한 항공권 가격 변동 요인 파악 및 스태킹 앙상블 예측 모델 구축]**
+# Yerin Kim 👋
+> **Data Science | Dongduk Women's Univ**  
+> **Undergraduate Researcher at Computer Vision & Machine Learning Lab (CVMLab)**
 
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-yerinkim204.github.io-blue?style=flat-square&logo=github)](https://yerinkim204.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:yerinkim204@gmail.com)
+
+---
 ---
 
 ### 🛠 Tech Stack
